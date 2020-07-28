@@ -19,5 +19,5 @@
 <a href="https://dev.to/robinrs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="robinrs" height="20" width="20" /></a>
 <a href="https://twitter.com/robin_schleser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robin_schleser" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/robin_schleser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="robin_schleser" height="20" width="20" /></a>
-<a href="https://instagram.com/robin_schleser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="robin_schleser" height="20" width="20" /></a>
+<a href="https://instagram.com/robin-schleser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="robin_schleser" height="20" width="20" /></a>
 </p>
